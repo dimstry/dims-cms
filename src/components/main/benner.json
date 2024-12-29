@@ -1,0 +1,23 @@
+{
+  "collectionName": "components_main_benners",
+  "info": {
+    "displayName": "benner",
+    "icon": "command",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "subtitle": {
+      "type": "text"
+    },
+    "image_lottie": {
+      "type": "json"
+    },
+    "button_title": {
+      "type": "string"
+    }
+  }
+}

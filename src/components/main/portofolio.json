@@ -1,0 +1,16 @@
+{
+  "collectionName": "components_main_portofolios",
+  "info": {
+    "displayName": "portofolio",
+    "icon": "connector"
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "subtitle": {
+      "type": "string"
+    }
+  }
+}

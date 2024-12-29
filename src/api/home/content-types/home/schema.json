@@ -1,0 +1,27 @@
+{
+  "kind": "singleType",
+  "collectionName": "homes",
+  "info": {
+    "singularName": "home",
+    "pluralName": "homes",
+    "displayName": "page",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "Benner": {
+      "displayName": "benner",
+      "type": "component",
+      "repeatable": false,
+      "component": "main.benner"
+    },
+    "Skills": {
+      "type": "component",
+      "repeatable": true,
+      "component": "main.skills"
+    }
+  }
+}

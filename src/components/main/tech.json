@@ -1,0 +1,21 @@
+{
+  "collectionName": "components_main_teches",
+  "info": {
+    "displayName": "tech",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "detail": {
+      "type": "component",
+      "repeatable": true,
+      "component": "main.tech-list"
+    },
+    "image": {
+      "type": "json"
+    }
+  }
+}
